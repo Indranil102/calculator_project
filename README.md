@@ -1,0 +1,2 @@
+# code to create calculator
+CREATEING A CALCULATOR BY HTML CSS AND JAVASCRIPT
